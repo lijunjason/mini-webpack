@@ -17,5 +17,11 @@
   "bugs": {
     "url": "https://github.com/lijunjason/mini-webpack/issues"
   },
-  "homepage": "https://github.com/lijunjason/mini-webpack#readme"
+  "homepage": "https://github.com/lijunjason/mini-webpack#readme",
+  "dependencies": {
+    "@babel/parser": "^7.17.9"
+  },
+  "devDependencies": {
+    "@babel/traverse": "^7.17.9"
+  }
 }
