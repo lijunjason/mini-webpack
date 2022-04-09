@@ -1,0 +1,21 @@
+{
+  "name": "mini-webpack",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "手写实现迷你版webpack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lijunjason/mini-webpack.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lijunjason/mini-webpack/issues"
+  },
+  "homepage": "https://github.com/lijunjason/mini-webpack#readme"
+}
